@@ -1,0 +1,26 @@
+# general
+name = "switzerland-full"
+
+# request locations file to use
+cities = "./data/swiss_cities.csv"
+origins = "./data/cloudfront_single_swiss.csv"
+
+# item characteristics
+# all sizes in bytes
+# our swiss cities data set covers a population only
+# 2.5% as big as the us cities data set
+# (in reality, Switzerland also only has 2.5% the population
+# of the us)
+# so we assume that we also only have 2.5% the amount of requests
+# and items to cover, to make it more realistic
+item_amount = 25000
+max_item_size = 100000
+min_item_size = 1000
+
+# request characteristics
+# maximum request amount
+request_amount = 25000
+
+# simulation time
+steps = 86400
+step_length = 1

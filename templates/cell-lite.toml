@@ -1,0 +1,20 @@
+# general
+name = "workload-cell-lite"
+
+# request locations file to use
+cities = "./data/us_cell_towers.csv"
+origins = "./data/cloudfront_single.csv"
+
+# item characteristics
+# all sizes in bytes
+item_amount = 10
+max_item_size = 100000
+min_item_size = 1000
+
+# request characteristics
+# maximum request amount
+request_amount = 10
+
+# simulation time
+steps = 24
+step_length = 3600

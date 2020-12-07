@@ -1,0 +1,20 @@
+# general
+name = "us-full"
+
+# request locations file to use
+cities = "./data/us_cities.csv"
+origins = "./data/cloudfront_single.csv"
+
+# item characteristics
+# all sizes in bytes
+item_amount = 1000000
+max_item_size = 100000
+min_item_size = 1000
+
+# request characteristics
+# maximum request amount
+request_amount = 1000000
+
+# simulation time
+steps = 86400
+step_length = 1
