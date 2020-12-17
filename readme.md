@@ -2,7 +2,24 @@
 
 Simulation tool for CDN replication in large low-earth orbit satellite access networks.
 
-Please note that the article is still pending publication.
+If you use this software in a publication, please cite it as:
+
+### Text
+
+T. Pfandzelter and D. Bermbach, **Edge (of the Earth) Replication: Optimizing Content Delivery in Large LEO Satellite Communication Networks**, arXiv preprint arXiv:2012.08979, 2020.
+
+### BibTeX
+
+```
+@misc{pfandzelter2020edge,
+      title={Edge (of the Earth) Replication: Optimizing Content Delivery in Large LEO Satellite Communication Networks}, 
+      author={Pfandzelter, Tobias and Bermbach, David},
+      year={2020},
+      eprint={2012.08979},
+      archivePrefix={arXiv},
+      primaryClass={cs.DC}
+}
+```
 
 For a full list of publications, please see [our website](https://www.mcc.tu-berlin.de/menue/forschung/publikationen/parameter/en/).
 
