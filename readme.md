@@ -6,18 +6,18 @@ If you use this software in a publication, please cite it as:
 
 ### Text
 
-T. Pfandzelter and D. Bermbach, **Edge (of the Earth) Replication: Optimizing Content Delivery in Large LEO Satellite Communication Networks**, arXiv preprint arXiv:2012.08979, 2020.
+T. Pfandzelter and D. Bermbach, **Edge (of the Earth) Replication: Optimizing Content Delivery in Large LEO Satellite Communication Networks**, in 21th IEEE/ACM International Symposium on Cluster, Cloud and Internet Computing (CCGrid 2021), May 2021.
 
 ### BibTeX
 
-```
-@misc{pfandzelter2020edge,
-      title={Edge (of the Earth) Replication: Optimizing Content Delivery in Large LEO Satellite Communication Networks}, 
-      author={Pfandzelter, Tobias and Bermbach, David},
-      year={2020},
-      eprint={2012.08979},
-      archivePrefix={arXiv},
-      primaryClass={cs.DC}
+```bibtex
+@inproceedings{pfandzelter2021edge,
+    title     = "Edge (of the Earth) Replication: Optimizing Content Delivery in Large LEO Satellite Communication Networks",
+    booktitle = "21th IEEE/ACM International Symposium on Cluster, Cloud and Internet Computing (CCGrid 2021)",
+    author    = "Pfandzelter, Tobias and Bermbach, David",
+    publisher = "IEEE",
+    month     = may,
+    year      = 2021
 }
 ```
 
