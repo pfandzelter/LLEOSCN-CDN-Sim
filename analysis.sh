@@ -1,3 +1,3 @@
 #!/bin/sh
 
-./analysis-go/analysis "$1" "$2"
+./analysis/analysis "$1" "$2"
