@@ -25,9 +25,8 @@ For a full list of publications, please see [our website](https://www.mcc.tu-ber
 
 ## License
 
-The code in this repository is licensed under the terms of the [MIT](./LICENSE) license.
-
-All code in the `simulation` folder is based on the [SILLEO-SCNS project](https://github.com/Ben-Kempton/SILLEO-SCNS) and licensed under the [GNU General Public License Version 3](./simulation/LICENSE).
+The code in this repository is licensed under the terms of the [GNU General Public License Version 3](./LICENSE) license.
+All code in the `simulation` folder is based on the [SILLEO-SCNS project](https://github.com/Ben-Kempton/SILLEO-SCNS).
 
 The [dataset of US cities](./data/us_cities.csv) is based on the [R `maps` package](https://github.com/adeckmyn/maps) and reproduced here for convenience.
 
